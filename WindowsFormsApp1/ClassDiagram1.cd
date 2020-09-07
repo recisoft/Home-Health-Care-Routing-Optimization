@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp1.Gen">
+    <Position X="0.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAgBAAAAAAAQAAAAAAAAAEIABAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Gen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Ekip">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAACAgAAAAAAAAABQAAQAAAAAAAAAAAAAAAgEA=</HashCode>
+      <FileName>Ekip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Hasta">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAFAABgAAAAAAAAAAAAAAAAAAEAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Hasta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Rota">
+    <Position X="7.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAgAAQAKEgAAAAAQAAAAIAAAAAEAQ=</HashCode>
+      <FileName>Rota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Populasyon">
+    <Position X="2.5" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAACAIAAAAAABAAAAAAACAgAIBAAAAAAA=</HashCode>
+      <FileName>Populasyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Kromozom">
+    <Position X="6" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgIgSAAAAAAAAIAAAAAAAoAQEAFCABAAoABgE=</HashCode>
+      <FileName>Kromozom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="WindowsFormsApp1.Nokta">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsFormsApp1.Uzaklik">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsFormsApp1.Uzaklik2">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsFormsApp1.TimeWindow">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WindowsFormsApp1.Hasta1Hasta2">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="WindowsFormsApp1.IlkAtamaYontem">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAQAAAAACAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApp1.Cezalar">
+    <Position X="10.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAAAAAAAAAAAACBAABAAQAQAAAARAA=</HashCode>
+      <FileName>Struct_Yapilar.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
