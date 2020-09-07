@@ -496,7 +496,7 @@ namespace WindowsFormsApp1
 
         private void RouteCiz(Rota myrota, Color renk)
         {
-            GMapProviders.GoogleMap.ApiKey = "AIzaSyCwg7XDonTpCAsXdciNKmEImY8Cnp1a41c";
+            GMapProviders.GoogleMap.ApiKey = "";
             //var route=GMapProviders.GoogleMap.  .GetRouteBetweenPoints(start, end, false, false, 1);
             map.Overlays.Clear();
             MarkerEkleHepsi(Islemler.gunID);
@@ -537,7 +537,7 @@ namespace WindowsFormsApp1
 
         private void RouteCiz2(Rota myrota, Color renk)
         {
-            GMapProviders.GoogleMap.ApiKey = "AIzaSyCwg7XDonTpCAsXdciNKmEImY8Cnp1a41c";
+            GMapProviders.GoogleMap.ApiKey = "";
             //var route=GMapProviders.GoogleMap.  .GetRouteBetweenPoints(start, end, false, false, 1);
 
 
